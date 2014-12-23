@@ -1,0 +1,1 @@
+Android is a framework created on the top of a linux kernal
